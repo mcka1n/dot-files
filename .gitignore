@@ -113,3 +113,36 @@ Code
 .gist-vim
 VirtualBox VMs
 .pgpass
+.APKey.plist
+.WPS.plist
+.android/
+.cassandra/
+.dbshell
+.dia-etc/
+.edwinmaldonado_WGA210_QuickProfile.txt
+.filezilla/
+.fonts/
+.freemind/
+.gdb_history
+.imagineer_log.txt
+.links/
+.mongorc.js
+.node-gyp/
+.nvm/
+.pgadmin_histoqueries
+.putty/
+.qgis/
+.sh_history
+.thumbnails/
+.vagrant.d/
+.wps.ini
+.zprofile
+.zshenv
+Calibre Library/
+Developer/
+LimeWire/
+adt-bundle-mac-x86_64/
+dumps/
+foo/
+pgadmin.log
+pl.ini
