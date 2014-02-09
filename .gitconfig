@@ -9,7 +9,7 @@
   editor = vim -f
   autocrlf = input
   safecrlf = true
-  excludesfile = /Users/mckain/.global_gitignore
+  excludesfile = /Users/edwinmaldonado/.global_gitignore
 [advice]
   statusHints = false
 [web]
