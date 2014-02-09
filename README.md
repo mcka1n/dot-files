@@ -2,7 +2,7 @@
 
 ```bash
 $ cd ~
-$ git clone git@github.com:chrishunt/dot-files.git .
+$ git clone git@github.com:mcka1n/dot-files.git .
 $ ./script/bootstrap
 ```
 
